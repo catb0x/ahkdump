@@ -1,2 +1,2 @@
 # ahkdump
-dumps
+just a dump of my scripts
